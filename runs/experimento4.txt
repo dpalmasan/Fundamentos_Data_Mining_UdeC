@@ -1,0 +1,101 @@
+Experimento 4
+Cantidad de Documentos = 240
+Support mínimo = 0.7
+Umbral de Disimilaridad = 0.38
+
+================================
+ Reglas de Asociación Obtenidas
+================================
+         ant      cons     disim mayor_que_umbral
+9     cáncer pacientes 0.5106083             TRUE
+10 pacientes    cáncer 0.5106083             TRUE
+15    cáncer   estudio 0.4298854             TRUE
+16   estudio    cáncer 0.4298854             TRUE
+2       años pacientes 0.4081481             TRUE
+1  pacientes      años 0.4081481             TRUE
+7       años   estudio 0.3980440             TRUE
+8    estudio      años 0.3980440             TRUE
+4      mayor pacientes 0.3882241             TRUE
+3  pacientes     mayor 0.3882241             TRUE
+12      años    cáncer 0.3860365             TRUE
+11    cáncer      años 0.3860365             TRUE
+6    estudio     mayor 0.3151695            FALSE
+5      mayor   estudio 0.3151695            FALSE
+14   estudio pacientes 0.3094565            FALSE
+13 pacientes   estudio 0.3094565            FALSE
+
+Cantidad de Documentos = 240
+Support mínimo = 0.7
+Umbral de Disimilaridad = 0.42
+
+================================
+ Reglas de Asociación Obtenidas
+================================
+         ant      cons     disim mayor_que_umbral
+9     cáncer pacientes 0.5106083             TRUE
+10 pacientes    cáncer 0.5106083             TRUE
+15    cáncer   estudio 0.4298854             TRUE
+16   estudio    cáncer 0.4298854             TRUE
+2       años pacientes 0.4081481            FALSE
+1  pacientes      años 0.4081481            FALSE
+7       años   estudio 0.3980440            FALSE
+8    estudio      años 0.3980440            FALSE
+4      mayor pacientes 0.3882241            FALSE
+3  pacientes     mayor 0.3882241            FALSE
+12      años    cáncer 0.3860365            FALSE
+11    cáncer      años 0.3860365            FALSE
+6    estudio     mayor 0.3151695            FALSE
+5      mayor   estudio 0.3151695            FALSE
+14   estudio pacientes 0.3094565            FALSE
+13 pacientes   estudio 0.3094565            FALSE
+
+Cantidad de Documentos = 240
+Support mínimo = 0.7
+Umbral de Disimilaridad = 0.46
+
+================================
+ Reglas de Asociación Obtenidas
+================================
+         ant      cons     disim mayor_que_umbral
+9     cáncer pacientes 0.5106083             TRUE
+10 pacientes    cáncer 0.5106083             TRUE
+15    cáncer   estudio 0.4298854            FALSE
+16   estudio    cáncer 0.4298854            FALSE
+2       años pacientes 0.4081481            FALSE
+1  pacientes      años 0.4081481            FALSE
+7       años   estudio 0.3980440            FALSE
+8    estudio      años 0.3980440            FALSE
+4      mayor pacientes 0.3882241            FALSE
+3  pacientes     mayor 0.3882241            FALSE
+12      años    cáncer 0.3860365            FALSE
+11    cáncer      años 0.3860365            FALSE
+6    estudio     mayor 0.3151695            FALSE
+5      mayor   estudio 0.3151695            FALSE
+14   estudio pacientes 0.3094565            FALSE
+13 pacientes   estudio 0.3094565            FALSE
+
+Cantidad de Documentos = 240
+Support mínimo = 0.7
+Umbral de Disimilaridad = 0.5
+
+================================
+ Reglas de Asociación Obtenidas
+================================
+         ant      cons     disim mayor_que_umbral
+9     cáncer pacientes 0.5106083             TRUE
+10 pacientes    cáncer 0.5106083             TRUE
+15    cáncer   estudio 0.4298854            FALSE
+16   estudio    cáncer 0.4298854            FALSE
+2       años pacientes 0.4081481            FALSE
+1  pacientes      años 0.4081481            FALSE
+7       años   estudio 0.3980440            FALSE
+8    estudio      años 0.3980440            FALSE
+4      mayor pacientes 0.3882241            FALSE
+3  pacientes     mayor 0.3882241            FALSE
+12      años    cáncer 0.3860365            FALSE
+11    cáncer      años 0.3860365            FALSE
+6    estudio     mayor 0.3151695            FALSE
+5      mayor   estudio 0.3151695            FALSE
+14   estudio pacientes 0.3094565            FALSE
+13 pacientes   estudio 0.3094565            FALSE
+
